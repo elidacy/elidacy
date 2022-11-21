@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Elida Ceylan Pamukkale University Computer Programmer 2. classroom student.
+
+🔭I'm a front-end developer
+
+🌱I am actively learning JavaScript
 
 <!--
 **elidacy/elidacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
