@@ -1,4 +1,4 @@
-### Hi there 👋 I am Elida Ceylan Pamukkale University Computer Programmer student.
+### Hi there 👋 I am Elida Ceylan Anadolu University management information systems student.
 
 🔭I'm a front-end developer
 
